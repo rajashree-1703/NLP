@@ -1,0 +1,4 @@
+nltk
+tk
+svgling
+numpy
