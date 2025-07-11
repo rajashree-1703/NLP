@@ -2,3 +2,5 @@ nltk
 tk
 svgling
 numpy
+pandas
+scikit-learn
